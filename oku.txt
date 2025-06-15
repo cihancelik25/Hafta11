@@ -1,0 +1,1 @@
+Dijkstra algoritmasını kullanarak bir graf içinde başlangıç noktasından tüm diğer düğümlere en kısa yoldan gitmemizi sağlayan program
